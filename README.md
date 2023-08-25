@@ -8,5 +8,5 @@ This package can now fit physical conditions from any molecular emission with th
 It can fit not only the original temperature, density, and column, but also the beam filling factor and
 abundance ratios between molecular species.
 
-Download code from the RADEXFittingCode folder and run TutorialNotebook.ipynb for an introduction to using the code. 
+Download code and supporting files from the RADEXFittingCode folder and run TutorialNotebook.ipynb for an introduction to using the code. 
 
