@@ -1,5 +1,5 @@
 # RadexFitting
-Fitting Radex models to molecular line emission to create maps of physical parameters.
+Fitting RADEX (van der Tak et al. 2021) models to molecular line emission to create maps of physical parameters.
 
 This methodology was used in Finn et al. (2021) to create maps of temperature, H2 density, and CO column density 
 in the Molecular Ridge of the Large Magellanic Cloud with CO and 13CO emission. 
